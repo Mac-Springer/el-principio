@@ -1,11 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T15:27:15.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="c0zOqbgB2Gh5lnsnVT2n" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T15:54:22.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4v8gtPK7L_IX4mU051iF" version="22.1.16" type="github">
   <diagram name="Page-1" id="90MO_YjmUW0pMVOKElTb">
-    <mxGraphModel dx="985" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1155" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I7iUblfnx8lxJgYY3LSX-1" value="Visual Ideas&lt;br&gt;- Metrics(Emails Received - Emails Extracted - Emails Processed - Percentage of received to processed)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-1" value="Visual Ideas&lt;br&gt;- Metrics(Emails Received - Emails Extracted - Emails Processed - Percentage of received to processed)&lt;br&gt;-Static table(Email meta data)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="760" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-2" value="Database Metrics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-3" value="Warehousing Metrics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-4" value="Logistics Metrics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-5" value="Database Metrics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-7" value="Warehouse Metrics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="820" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-9" value="Warehouse Metrics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="920" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-10" value="Logistics Metrics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1000" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="880" as="sourcePoint" />
+            <mxPoint x="400" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="740" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="780" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="820" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="840" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="860" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="880" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="60" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="720" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="720" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-61" value="Assays Metrics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I7iUblfnx8lxJgYY3LSX-62" value="Surveyors Metrics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="525" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
